@@ -1,0 +1,9 @@
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\GoogleCalendar.exe.config
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\GoogleCalendar.exe
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\GoogleCalendar.pdb
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\Newtonsoft.Json.dll
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\Newtonsoft.Json.xml
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\obj\Debug\GoogleCalendar.csprojResolveAssemblyReference.cache
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\obj\Debug\GoogleCalendar.csproj.CoreCompileInputs.cache
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\obj\Debug\GoogleCalendar.exe
+c:\users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\obj\Debug\GoogleCalendar.pdb
