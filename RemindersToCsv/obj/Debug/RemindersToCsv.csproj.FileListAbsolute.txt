@@ -1,9 +1,0 @@
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\obj\Debug\RemindersToCsv.csprojResolveAssemblyReference.cache
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\obj\Debug\RemindersToCsv.csproj.CoreCompileInputs.cache
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\RemindersToCsv.exe.config
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\RemindersToCsv.exe
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\RemindersToCsv.pdb
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\Newtonsoft.Json.dll
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\bin\Debug\Newtonsoft.Json.xml
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\obj\Debug\RemindersToCsv.exe
-C:\Users\cfetherling\source\repos\GoogleCalendar\GoogleCalendar\obj\Debug\RemindersToCsv.pdb
